@@ -6,13 +6,13 @@
 #                                                                |___/             
 #
 # Ergänzende externe ip-tables zu den hosts gegen Analytics
-# Spyware und Trackern in Spielen von gameindustry.de
+# Spyware und Trackern in Spielen von gameindustry.eu
 #
 # Version: IPv4 Adressen - Erhöhter Schutz gegen Spyware und Telemetrie in Spielen
 # Änderungsdatum: 21.10.2020
 #
 # Diese Datei stammt von https://www.gameindustry.eu
-# Kontaktmail: noreply@gameindustry.de
+# Kontaktmail: noreply@gameindustry.eu
 # Kontaktformular: https://gameindustry.eu/u/kontakt/
 # Steam: https://steamcommunity.com/groups/Penguindome
 #
