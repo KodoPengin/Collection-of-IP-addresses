@@ -11,13 +11,6 @@ Especially wordpress-systems are affected
 # Installation
 Block Ipv4 from the list in your (Server) Firewall, htacesss or other scripts. It's an individual thing.
 
-# Description Spyware Services in Games
-Spyware Services in Games contains IPv4 addresses from which the following things start:
-Telemetry, Spyware, Data Pipelines, Mass collecting of user data, Breaching pricacy services, Banner and Advertising, Crashylytics, Trackingpixel/Cookies
-
-# Installation
-Block Ipv4 from the list in your (Server) Firewall, PI-Hole e.g. It's also an individual thing.
-
 # Copyright, Support & License
 GameIndustry.eu is the original source of published files. If the files (or components) are from somewhere else (maybe modified), they are not from me.
 
