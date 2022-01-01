@@ -17,7 +17,7 @@
 # Diese Datei stammt von https://www.gameindustry.eu
 # Kontaktmail: noreply@gameindustry.eu
 # Kontakt: https://www.gameindustry.eu/u/kontakt/
-# Artikel: https://gameindustry.eu/artikel/blockliste-fuer-webseiten/
+# Artikel: https://www.gameindustry.eu/artikel/webserver-vor-angriffen-sichern/
 #
 # Lizenz: CC BY-NC-SA 4.0
 # https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
